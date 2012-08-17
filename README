@@ -3,7 +3,9 @@ Language: C++
 Development Environment: Dev C++   	
 Important features: Utilizes templates to process data.
 
-Searches a file for a particular data type (string, char, int, double) and 
-displays the results in ascending/descending order with the frequency count
-of each result. Also displays the amount of unique, non-unique, and total data. 
-An option to find palindromes is available for the string data type. 
+Searches a file for a particular data type (string, char, int, double).
+
+Displays the results in ascending/descending order with the frequency count
+of each result. Also displays the amount of unique, non-unique, and total 
+number of results. An option to find palindromes is available for the string 
+data type. 
